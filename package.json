@@ -38,14 +38,14 @@
   },
   "peerDependencies": {
     "react": "^16.8.0-0",
-    "axios": "^0.18.0"
+    "axios": "^0.21.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.5",
     "@babel/plugin-transform-runtime": "^7.4.4",
     "@babel/preset-env": "^7.4.5",
-    "axios": "^0.18.0",
+    "axios": "^0.21.2",
     "babel-eslint": "^10.0.1",
     "cross-env": "^5.2.0",
     "cz-conventional-changelog": "^2.1.0",
